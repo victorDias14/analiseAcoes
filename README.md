@@ -5,3 +5,5 @@ Quando comecei a estudar investimento em ações na bolsa de valores, vi que ser
 Ao iniciar, ele solicita códigos de ações que eu desejo analisar, coleta os dados e realiza os cálculos, me retornando uma nota. Então eu insiro essa nota em uma planilha do Excel para saber quantas ações devo comprar ou vender.
 
 Essa versão foi a primeira versão que criei e não está orientada a objetos. Também não realiza algumas verificações que seria interessante realizar. Estou refatorando o código para fazer a versão orientada a objetos e com melhor performance.
+
+Também não possui interface gráfica, sendo necessário uma IDE para rodar, ou então abrir um terminal no diretório onde está o arquivo analise_carteira.py e rodar o comando python analise_carteira.py.
